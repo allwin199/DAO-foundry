@@ -36,3 +36,4 @@ mapping(uint256 proposalId => ProposalCore) private _proposals;
 ---
 
 -   TimelockController contract will own the Governor contract
+-   DAO will own the TimeLockController
